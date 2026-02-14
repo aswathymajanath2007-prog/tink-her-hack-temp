@@ -13,7 +13,7 @@
 - Member 2: Bhuvana P P - Christ College of Engineering, Irinjalakuda
 
 ### Hosted Project Link
-[http://localhost:5173/]
+http://localhost:5173/
 
 ### Project Description
 Luna is an exclusive platform built for women, focusing on safety, dignity, and mutual support.
