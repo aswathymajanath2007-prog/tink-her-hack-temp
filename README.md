@@ -9,8 +9,8 @@
 ### Team Name: SuuperGurl
 
 ### Team Members
-- Member 1: Aswathy M S - Christ College of Engineering
-- Member 2: Bhuvana P P - Christ College of Engineering
+- Member 1: Aswathy M S - Christ College of Engineering, Irinjalakuda
+- Member 2: Bhuvana P P - Christ College of Engineering, Irinjalakuda
 
 ### Hosted Project Link
 [mention your project hosted link here]
