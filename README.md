@@ -33,10 +33,10 @@ Luna aims to bridge the gap through a safe, private, and community-driven soluti
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: Python, HTML, CSS
+- Frameworks used: None (Built using core Python and basic web technologies)
+- Libraries used: antigravity (Python built-in module)
+- Tools used: VS Code, Git, Git Bash, Git Hub
 
 ---
 
@@ -68,13 +68,6 @@ Luna is exclusively designed for women, creating a secure environment for sharin
 [Run commands - e.g., npm start, python app.py]
 ```
 
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
 
 ---
 
@@ -85,13 +78,18 @@ Luna is exclusively designed for women, creating a secure environment for sharin
 #### Screenshots (Add at least 3)
 
 ![Screenshot1](ss1.png)
+Login page
+
+![Screenshot2](ss2.png)
+
+
+![Screenshot3](ss3.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot4](ss4.png)
+![Screenshot5](ss5.png)
+![Screenshot6](ss6.png)
+![Screenshot7](ss7.png)
 
 #### Diagrams
 
@@ -107,15 +105,6 @@ Luna is exclusively designed for women, creating a secure environment for sharin
 
 ---
 
-### For Hardware:
-
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 #### Build Photos
 
@@ -396,25 +385,6 @@ If you used AI tools during development, document them here for transparency:
 - UI/UX design decisions
 
 *Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
-
----
-
-## Team Contributions
-
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
-
----
-
-## License
-
-This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
-
-**Common License Options:**
-- MIT License (Permissive, widely used)
-- Apache 2.0 (Permissive with patent grant)
-- GPL v3 (Copyleft, requires derivative works to be open source)
 
 ---
 
