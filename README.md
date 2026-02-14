@@ -2,27 +2,29 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Luna- for women, by women
 
 ## Basic Details
 
 ### Team Name: [Name]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Aswathy M S - Christ College of Engineering
+- Member 2: Bhuvana P P - Christ College of Engineering
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Luna is an exclusive platform built for women, focusing on safety, dignity, and mutual support.
+By leveraging location-based alerts, the app enables women to respond to emergency sanitary needs through a trusted community network.
 
 ### The Problem statement
-[What problem are you solving?]
+Menstrual emergencies are common yet often unsupported situations faced by women. Unexpected periods and lack of sanitary products can cause stress, discomfort, and embarrassment. There is no secure, location-based platform that connects women in need with trusted nearby helpers in real time.
 
 ### The Solution
-[How are you solving it?]
+To solve unexpected period emergencies, Luna enables women to send emergency pad requests exclusively to their followers using location-based alerts. This follower-only approach creates a safe, trusted support network where women can receive timely help without compromising privacy.
+Luna aims to bridge the gap through a safe, private, and community-driven solution.
 
 ---
 
@@ -46,10 +48,14 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: Emergency Sanitary Alert System
+Users can send an emergency alert requesting a sanitary pad, tampon, or menstrual cup. The alert is shared only with the user’s followers within a 3 km radius, ensuring a trusted and localized support network.
+- Feature 2: Privacy-First Acceptance Flow
+Recipients can choose to accept or ignore the alert. The requester’s name and live location are revealed only after the recipient accepts, maintaining user privacy and safety at all stages.
+- Feature 3: Location-Based Matching
+The system uses location data to notify only nearby followers, enabling faster response times and minimizing unnecessary exposure.
+- Feature 4: Women-Only Safe Space
+Luna is exclusively designed for women, creating a secure environment for sharing concerns, asking questions, and seeking support without fear or discomfort.
 
 ---
 
