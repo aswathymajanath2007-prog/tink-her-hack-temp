@@ -38,11 +38,6 @@ Luna aims to bridge the gap through a safe, private, and community-driven soluti
 - Libraries used: [e.g., axios, pandas, JUnit]
 - Tools used: [e.g., VS Code, Git, Docker]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
 ---
 
 ## Features
