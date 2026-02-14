@@ -6,7 +6,7 @@
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: SuuperGurl
 
 ### Team Members
 - Member 1: Aswathy M S - Christ College of Engineering
